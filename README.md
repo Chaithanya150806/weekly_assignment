@@ -1,2 +1,2 @@
 # weekly_assignment
-hi
+my assignment are completed
