@@ -52,6 +52,8 @@ public class AccountIdLookup {
             } else {
                 high = mid - 1;
             }
+
+            
         }
 
         System.out.println("Binary First → Comparisons: " + comparisons);
